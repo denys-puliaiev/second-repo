@@ -1,0 +1,70 @@
+font-family: 'Montserrat', sans-serif;
+
+/* main styles */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #E5E5E5;
+    width: 200px;
+    margin: 0 auto;
+    }
+    
+    /* sidebar styles */
+    .sidebar {
+        background-color: #1E2939;
+    }
+    
+    /* main-content styles */
+    .main-content {
+        background-color:#FFFFFF
+    }
+    
+    
+    body 
+    {
+        font-family: 'Montserrat', sans-serif;
+        padding-top: 40px;
+        width: 370px;
+        
+    }
+    
+    .photo {
+        width: 370px;
+        margin-bottom: 50px;
+    }
+    
+    .sidebar-title {
+        color:#ffffff;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 27px;
+        margin-bottom: 10px;
+    }
+    
+    .contacts, 
+    .tech-skills {
+        margin-left: 40px;
+    }
+    
+    .contact-type {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 24px; 
+        color: #FFFFFF; 
+        margin-right: 10px;
+    }
+    
+    .contact-link {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;      
+        color: #FFFFFF;
+        }
+    
+    .sidebar {
+        background-color: #1e2939;
+    }
